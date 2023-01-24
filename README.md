@@ -21,10 +21,10 @@ node .\report.js
 ```
  - Read the project POSTMAN [Documentation](https://documenter.getpostman.com/view/17034549/2s8ZDbX1iQ).
 
-## Test Cases for Dmoney Api:
+## Test Cases for Dmoney API:
   - https://docs.google.com/spreadsheets/d/131Eccil4tf6tu1TBGZ_7mawDkgcipC-UKFVJrKwgIak/edit?usp=sharing
   
-## Bug Report for Dmoney Api:
+## Bug Report for Dmoney API:
   - https://docs.google.com/spreadsheets/d/1vP3FyNFZQZv2dPSMj7ziFC55l-w_AK4LcISKk_VB8Tk/edit?usp=sharing
   
 #### Screenshot of the report generated using newman.
