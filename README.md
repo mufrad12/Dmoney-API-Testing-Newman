@@ -7,18 +7,20 @@
  Steps to run this project:
  - Clone this project
  - Give the following commands by opening terminal in the project folder to create newman Report:
- ```
+ 
+ ```ruby
  npm init -y
- ```
- ```
+```
+ ```ruby
  npm install newman
 ```
+ ```ruby
+ npm i newman-reporter-htmlextra
 ```
-npm i newman-reporter-htmlextra
+ ```ruby
+ node .\report.js
 ```
-```
-node .\report.js
-```
+
  - Read the project POSTMAN [Documentation](https://documenter.getpostman.com/view/17034549/2s8ZDbX1iQ).
 
 ## Test Cases for Dmoney API:
